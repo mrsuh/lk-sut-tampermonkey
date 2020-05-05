@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         sut autologin
-// @namespace    sut
+// @namespace    https://github.com/mrsuh/lk-sut-tampermonkey
 // @version      0.1
 // @description  Auto login to site
 // @author       Anton Sukhachev

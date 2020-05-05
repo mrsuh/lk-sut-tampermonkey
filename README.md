@@ -23,15 +23,14 @@
 
 ### Скопировать скрипт и заменить логин и пароль
 
-* Перейти по [ссылке](./script.js)
-* Скопировать текст скрипта
+* Скопировать текст скрипита от сюда [ссылке](https://raw.githubusercontent.com/mrsuh/lk-sut-tampermonkey/master/script.js)
 * Вставить его в редактор Tampermankey
 * Заменить логи и пароль на настоящие
 
 ![](./screenshots/paste-new-script.png)
 
 ### Сохранить новый скрипт
-
+В левом верхнем меню редактора Tampermankey кликнуть `File` -> `Save`
 ![](./screenshots/save-new-script.png)
 
 ### Перейти на страницу кабинета
