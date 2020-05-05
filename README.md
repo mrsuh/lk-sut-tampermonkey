@@ -1,11 +1,11 @@
 # Tampermankey lk.sut.ru autologin
 
-Скрипт, который всегда оставляет вас залогиненым в кабинете
+Скрипт, который всегда оставляет вас залогиненным в кабинете
 
 ## Инструкция по установке
 
 ### Установить расширение для браузера Tampermankey
-Перейти по ссылке браузера, которым вы пользуетесь и добавить расширение в браузер
+Перейти по ссылке браузера, которым вы пользуетесь, и добавить расширение в браузер
 * [Chrome](https://www.tampermonkey.net/?ext=dhdg&browser=chrome)
 * [Firefox](https://www.tampermonkey.net/?ext=dhdg&browser=firefox)
 * [Microsoft Edge](https://www.tampermonkey.net/?ext=dhdg&browser=edge)
@@ -19,6 +19,7 @@
 ### Добавить новый скрипт
 В строке расширений браузера должна появиться новая иконка Tampermankey<br>
 Необходимо кликнуть на неё и выбрать пункт `Create a new script...`<br>
+
 ![](./screenshots/create-new-script.png)
 
 ### Скопировать скрипт и заменить логин и пароль
@@ -31,6 +32,7 @@
 
 ### Сохранить новый скрипт
 В левом верхнем меню углу редактора Tampermankey кликнуть `File` -> `Save`
+
 ![](./screenshots/save-new-script.png)
 
 ### Перейти на страницу кабинета
