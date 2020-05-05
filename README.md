@@ -17,20 +17,20 @@
 ![Скриншот примера добавления расширения в браузер Chrome](./screenshots/add-extension.png)
 
 ### Добавить новый скрипт
-В строке расширений браузера должен появиться новый значек Tampermankey<br>
+В строке расширений браузера должен появиться новый иконку Tampermankey<br>
 Необходимо кликнуть на него и выбрать пункт `Create a new script...`<br>
 ![](./screenshots/create-new-script.png)
 
 ### Скопировать скрипт и заменить логин и пароль
 
-* Скопировать текст скрипита от сюда [ссылке](https://raw.githubusercontent.com/mrsuh/lk-sut-tampermonkey/master/script.js)
+* Скопировать текст скрипита [отсюда](https://raw.githubusercontent.com/mrsuh/lk-sut-tampermonkey/master/script.js)
 * Вставить его в редактор Tampermankey
-* Заменить логи и пароль на настоящие
+* Заменить логин и пароль на настоящие
 
 ![](./screenshots/paste-new-script.png)
 
 ### Сохранить новый скрипт
-В левом верхнем меню редактора Tampermankey кликнуть `File` -> `Save`
+В левом верхнем меню углу редактора Tampermankey кликнуть `File` -> `Save`
 ![](./screenshots/save-new-script.png)
 
 ### Перейти на страницу кабинета
@@ -42,3 +42,6 @@ https://lk.sut.ru/cabinet/
 
 
 ### Временно отключить скрипт
+В строке расширений браузера кликнуть на иконку Tampermankey<br>
+Отключить скрипт
+![](./screenshots/disable-script.png)
