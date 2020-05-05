@@ -13,7 +13,7 @@
 
     let username          = 'username';//заменить на настоящий логин
     let password          = 'password';//заменить на настоящий пароль
-    let refreshTimeoutSec = 300;//период обновления страницы в секундах
+    let reloadPeriodSec = 300;//период обновления страницы в секундах
 
     setInterval(function() {
         if (document.querySelector('#exit')) {
@@ -27,5 +27,5 @@
 
     setInterval(function() {
         document.location.reload();
-    }, refreshTimeoutSec * 1000);
+    }, reloadPeriodSec * 1000);
 })();
